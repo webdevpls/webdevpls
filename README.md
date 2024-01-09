@@ -7,6 +7,8 @@
 [![ProjetosRecentes](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://landingpageitau.vercel.app/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevpls&show_icons=true&theme=dracula)
+## 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevpls&layout=compact)
 
 ## Tecnologias que eu uso no meu dia a dia! 👀
 
