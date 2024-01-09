@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevpls&show_icons=true&theme=dracula)
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevpls&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevpls&langs_count=8)
 
 ## Tecnologias que eu uso no meu dia a dia! 👀
 
