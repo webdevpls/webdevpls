@@ -33,7 +33,7 @@
 
 ## Meus Projetos mais recentes! 🚀
 - [Projeto FrontEnt Itau NextJS](https://landingpageitau.vercel.app/)
-- [Projeto Landing Page Stan NextJs]([https://spotify-clone-front-end.vercel.app/](https://stan-landing-page.vercel.app/))
+- [Projeto Landing Page Stan NextJs](https://stan-landing-page.vercel.app/)
 - [Projeto Jogo SecretWord](https://secretwordgame-dusky.vercel.app/)
 
 
