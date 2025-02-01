@@ -34,6 +34,6 @@
 ## Meus Projetos mais recentes! 🚀
 - [Projeto Etrium](https://etrium.com.br)
 - [Meu portifólio](https://devpls.framer.website)
-- [AppDesign ClassApp]([https://secretwordgame-dusky.vercel.app/](https://www.behance.net/gallery/218199273/ClassAPP-design))
+- [AppDesign ClassApp](https://www.behance.net/gallery/218199273/ClassAPP-design)
 
 
