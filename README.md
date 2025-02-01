@@ -32,8 +32,8 @@
 
 
 ## Meus Projetos mais recentes! 🚀
-- [Projeto FrontEnt Itau NextJS](https://landingpageitau.vercel.app/)
-- [Projeto Landing Page Stan NextJs](https://stan-landing-page.vercel.app/)
-- [Projeto Jogo SecretWord](https://secretwordgame-dusky.vercel.app/)
+- [Projeto Etrium](https://etrium.com.br)
+- [Meu portifólio](https://devpls.framer.website)
+- [AppDesign ClassApp]([https://secretwordgame-dusky.vercel.app/](https://www.behance.net/gallery/218199273/ClassAPP-design))
 
 
