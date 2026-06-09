@@ -6,9 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/plsnobrega/)
 [![ProjetosRecentes](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://etrium.com.br/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevpls&show_icons=true&theme=dracula)
-## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevpls&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia! 👀
 
