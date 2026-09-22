@@ -219,11 +219,11 @@
   <div style={{ display: 'flex', flexWrap: 'wrap', gap: 14, marginTop: 20 }}>
     <div style={{ display: 'flex', flexDirection: 'column', padding: '14px 18px', background: 'rgba(255,255,255,0.035)', border: '1px solid rgba(255,255,255,0.08)', borderRadius: 14, width: 356, height: 78 }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-        <span style={{ fontSize: 15, fontWeight: 600, color: '#ffffff' }}>Sistema Leal</span>
+        <span style={{ fontSize: 15, fontWeight: 600, color: '#ffffff' }}>Chute Rasteiro</span>
         <span style={{ fontSize: 10, color: 'rgba(255,255,255,0.4)', letterSpacing: 1 }}>🔒 PRIVADO</span>
       </div>
-      <span style={{ fontSize: 12, color: 'rgba(255,255,255,0.55)', marginTop: 4 }}>Gestão de lideranças de campanha</span>
-      <span style={{ fontSize: 11, color: 'rgba(108,195,130,0.8)', marginTop: 6 }}>React · AWS Lambda · Supabase</span>
+      <span style={{ fontSize: 12, color: 'rgba(255,255,255,0.55)', marginTop: 4 }}>Loja online de camisas de futebol</span>
+      <span style={{ fontSize: 11, color: 'rgba(108,195,130,0.8)', marginTop: 6 }}>React · Vite · Framer Motion</span>
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', padding: '14px 18px', background: 'rgba(255,255,255,0.035)', border: '1px solid rgba(255,255,255,0.08)', borderRadius: 14, width: 356, height: 78 }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
